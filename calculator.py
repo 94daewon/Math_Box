@@ -10,6 +10,3 @@ def multiply(a, b):
 
 def divide_free(a, b):
   returb a/b
-
-def squard(a)
-return a*a
